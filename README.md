@@ -53,7 +53,7 @@ Each class consists of a class name , attributes and the methods that class cont
 
 **example**
 
-![](img\img11.PNG)
+![](/img/img11.PNG)
 
 ### relations between classes and each others
 
