@@ -35,7 +35,7 @@ These patterns explain how to assemble objects and classes into larger structure
 These patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
  <p align="center">
-  <img src="img/img9.jpg" />  
+  <img src="img9.jpg" />  
 </p>
 
 
