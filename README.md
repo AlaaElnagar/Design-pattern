@@ -1,4 +1,4 @@
-**Design patterns**
+# Design patterns
 ![](https://images8.alphacoders.com/397/397668.jpg)
 **Introduction**
 
