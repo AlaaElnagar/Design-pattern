@@ -35,7 +35,7 @@ These patterns explain how to assemble objects and classes into larger structure
 These patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
  <p align="center">
-  <img src="img9.jpg" />  
+  <img src="/img/img9.jpg" />  
 </p>
 
 
@@ -49,7 +49,7 @@ What mean by UML : UML stands for unified machine language and consists of
 
 Each class consists of a class name , attributes and the methods that class contains 
 
-![](img\img10.PNG)
+![](/img/img10.PNG)
 
 **example**
 
@@ -65,13 +65,13 @@ Is used when there is a parent class and child class and we need to show the rel
 
 **Note** Generalization arrow is empty and points to the most general class to inherit from 
 
-​                                                                                                                                                        ![](img\img12.PNG)
+​                                                                                                                                                        ![](/img/img12.PNG)
 
 ### 2-Abstract class 
 
 The name of abstract class is shown in italics  and contains virtual method and must be implemented by child classes and also it uses generalization arrow
 
-​                                                                                                                       ![](img\img13.PNG)
+​                                                                                                                       ![](/img/img13.PNG)
 
 
 
@@ -79,13 +79,13 @@ The name of abstract class is shown in italics  and contains virtual method and 
 
 A composition show part of for example Button is part of window and when window the `container`  is destroyed the button will be destroyed `one of container elements`  also and we can represent that using composition  arrow
 
-​                                                                                                                                          ![](img\img14.PNG)
+​                                                                                                                                          ![](/img/img14.PNG)
 
 ### 4-Aggregation
 
 The need for aggregation appears when we need to destroy the container and keep it's elements and can be represented with hollo diamond a
 
-​																																	        ![](img\img15.PNG)
+​																																	        ![](/img/img15.PNG)
 
 ​                      																												                                                                     
 
@@ -93,11 +93,11 @@ The need for aggregation appears when we need to destroy the container and keep 
 
 ### Appears when   a class need  to use a feature of other class  as shown here the driver use the  car  association relationship represented with a arrow 
 
-​                                                                                                                                ![](img\img16.PNG)
+​                                                                                                                                ![](/img/img16.PNG)
 
 **5-Note notation** 
 
-​    This  notation is needed  when extra notes is needed and not mentioned in the diagram and known as a comment  as shown PI is a constant                                                                                                                              																																							![](img\img17.PNG)![](img\img18.PNG)
+​    This  notation is needed  when extra notes is needed and not mentioned in the diagram and known as a comment  as shown PI is a constant                                                                                                                              																																							![](/img/img17.PNG)![](/img/img18.PNG)
 
 
 
